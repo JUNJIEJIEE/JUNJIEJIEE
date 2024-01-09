@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Hi, I’m Junjie
+- I’m interested in engineering
+- I’m currently learning about circuits
+- I'm originally from China
+- I'm a sophmore in Electrical Engineering
+- I chose my major because I found it interesting
+- A fun fact about me is: I can play the violin
+- What do I want to learn from EE 205?  C and C++
+- A book or movie I'd recommend is:  Star Wars: Revenge of the Sith 
